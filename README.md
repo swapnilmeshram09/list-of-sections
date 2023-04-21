@@ -1,1 +1,1 @@
-# pratical-1-list
+#list of sections
